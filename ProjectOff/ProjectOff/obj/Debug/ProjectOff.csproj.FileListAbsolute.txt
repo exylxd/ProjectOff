@@ -1,0 +1,13 @@
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\bin\Debug\ProjectOff.exe.config
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\bin\Debug\ProjectOff.exe
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\bin\Debug\ProjectOff.pdb
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\bin\Debug\Guna.UI2.dll
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.csproj.AssemblyReference.cache
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.Forms.InfoForm.resources
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.MainForm.resources
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.Properties.Resources.resources
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.csproj.GenerateResource.cache
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.csproj.CoreCompileInputs.cache
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.exe
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.pdb
+C:\Users\exyyyl\Desktop\ProjectOff\ProjectOff\obj\Debug\ProjectOff.csproj.Up2Date

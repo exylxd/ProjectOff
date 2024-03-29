@@ -1,0 +1,38 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Presets" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Presets">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="PresetID" type="xs:int" minOccurs="0" />
+                <xs:element name="Time" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Presets>
+    <PresetID>1</PresetID>
+    <Time>10</Time>
+  </Presets>
+  <Presets>
+    <PresetID>2</PresetID>
+    <Time>30</Time>
+  </Presets>
+  <Presets>
+    <PresetID>3</PresetID>
+    <Time>60</Time>
+  </Presets>
+  <Presets>
+    <PresetID>4</PresetID>
+    <Time>300</Time>
+  </Presets>
+  <Presets>
+    <PresetID>5</PresetID>
+    <Time>600</Time>
+  </Presets>
+</NewDataSet>
